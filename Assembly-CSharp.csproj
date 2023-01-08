@@ -40,6 +40,8 @@
      <Compile Include="Assets/Scripts/WaypointFollower.cs" />
      <Compile Include="Assets/Scripts/StickyPlatform.cs" />
      <Compile Include="Assets/Scripts/PlayerLife.cs" />
+     <Compile Include="Assets/Scripts/Rotate.cs" />
+     <Compile Include="Assets/Scripts/ItemCollector.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.16f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
